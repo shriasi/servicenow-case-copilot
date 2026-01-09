@@ -1,0 +1,9 @@
+{
+  "number": "CS0001234",
+  "state": "Work in Progress",
+  "priority": "2 - High",
+  "short_description": "Intermittent login failures in production",
+  "description": "Users report intermittent login errors since 2026-01-07. Issue occurs across multiple browsers. Some users can login after retrying.",
+  "comments": "Customer: Please share root cause and ETA. Is there any workaround?",
+  "work_notes": "Initial checks: no planned maintenance. Reviewing auth service logs and recent deployments. Requesting exact timestamps and affected user list."
+}

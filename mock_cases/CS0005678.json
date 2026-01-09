@@ -1,0 +1,9 @@
+{
+  "number": "CS0005678",
+  "state": "Awaiting Customer",
+  "priority": "3 - Medium",
+  "short_description": "Report generation takes too long",
+  "description": "Customer reports monthly report generation takes 20+ minutes and sometimes times out. Started after new data load last week.",
+  "comments": "Customer: Any way to speed this up? Can you advise next steps?",
+  "work_notes": "Asked customer for report name, time window, and sample request ID. Suggested trying during off-peak hours. Planning to check DB waits and app logs."
+}
